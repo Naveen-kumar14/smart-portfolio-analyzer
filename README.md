@@ -47,18 +47,7 @@ streamlit run app.py
 
 ## ☁️ Deploy on Streamlit Community Cloud (free, public URL)
 
-1. Push all files to a **public GitHub repo** (e.g. `github.com/yourname/portfolio-app`).
-
-2. Go to **[share.streamlit.io](https://share.streamlit.io)** and sign in with GitHub.
-
-3. Click **"New app"** → choose your repo, branch (`main`), and main file (`app.py`).
-
-4. Click **Deploy**. Streamlit builds and hosts the app — you get a URL like  
-   `https://yourname-portfolio-app-app-xxxx.streamlit.app`
-
-5. The app auto-redeploys on every `git push`.
-
-> **No credit card needed.** Community Cloud is free for public repos.
+APP URL : https://portix.streamlit.app
 
 ---
 
