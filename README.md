@@ -93,4 +93,4 @@ If a live fetch fails the app logs it to the terminal and falls back to a determ
 ## Contributors
 
 1. Naveen Kumar.c ([Naveen-kumar14](https://github.com/Naveen-kumar14))
-2. Akash.r ([Akash-r-git](https://github.com/Akash-r-git))
+2. Nathaneal Cecil 
